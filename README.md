@@ -1,6 +1,6 @@
 # hello-world
 
-My first glance at Github!!!
+This is first glance at Github!!!
 
   My name is Gerald Bien Loreto, a graduating web development student in University of the East Caloocan
 and soon to be an aspiring web developer in my dream industry. Working it up, an endeavor to reach
